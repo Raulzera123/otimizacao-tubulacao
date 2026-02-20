@@ -8,7 +8,7 @@ Este algoritmo utiliza o método de otimização escalar da biblioteca `SciPy` p
 
 A função objetivo a ser minimizada é o Custo Total ($C_T$), dependente do diâmetro ($D$):
 
-$$C_T(D) = C_{amor}+ C_{op}(D)$$
+$$C_T(D) = C_{amor}+ C_{op}$$
 
 Onde:
 * $C_{inv}$ é o custo amortizado do material instalado (proporcional ao diâmetro e comprimento).
