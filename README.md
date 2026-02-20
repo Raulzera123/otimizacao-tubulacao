@@ -1,4 +1,4 @@
-# Otimização de Custos de Tubulação (Pipeline Cost Optimization) 🚀
+# Otimização de Custos de Tubulação 🚀
 
 Este projeto é uma aplicação de **Otimização Matemática** utilizando Python para resolver um problema clássico de mecânica dos fluidos: encontrar o diâmetro ótimo de uma tubulação que minimize o custo total do projeto, equilibrando os custos de instalação e os custos operacionais.
 
