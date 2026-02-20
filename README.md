@@ -4,7 +4,7 @@ Este projeto é uma aplicação de **Otimização Matemática** utilizando Pytho
 
 Este algoritmo utiliza o método de otimização escalar da biblioteca `SciPy` para encontrar o ponto de mínimo global da função de custo total.
 
-## 🧮 Modelação Matemática
+## 🧮 Modelagem Matemática
 
 A função objetivo a ser minimizada é o Custo Total ($C_T$), dependente do diâmetro ($D$):
 
