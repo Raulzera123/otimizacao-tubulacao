@@ -16,7 +16,7 @@ Onde:
 
 O algoritmo calcula a potência requerida ($Pot$) considerando a vazão ($Q$), a densidade ($\rho$), a viscosidade dinâmica ($\mu$), a eficiência do sistema ($\eta$) e a queda de pressão ($\delta$ $P$).
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Bibliotecas Utilizadas
 
 O projeto foi estruturado utilizando os princípios de **Programação Orientada a Objetos (POO)** para facilitar a reutilização e manutenção do código.
 
